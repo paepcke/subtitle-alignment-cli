@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "subtitle-alignment-cli"
+version = "0.1.0"
+description = "Forced alignment and subtitle generation pipeline using WhisperX"
+readme = "README.md"
+requires-python = ">=3.10,<3.12"
+authors = [
+    { name = "Andreas Paepcke" }
+]
+dependencies = [
+    "torch>=2.0.0",
+    "torchaudio>=2.0.0",
+    "torchvision>=0.15.0",
+    "whisperx==3.8.6",
+    "faster-whisper>=1.0.0",
+    "ctranslate2>=4.0.0",
+    "ffmpeg-python>=0.2.0",
+]
+
+[project.optional-dependencies]
+translation = [
+    "anthropic>=0.18.0",
+    "google-genai>=0.1.0",
+    "elevenlabs>=1.0.0",
+]
+dev = [
+    "pytest>=8.0.0",
+    "ruff>=0.3.0",
+]
+
+# Standard UV/Pip configuration for CUDA wheels on Linux
+[tool.uv]
+extra-index-url = ["https://download.pytorch.org/whl/cu121"]
