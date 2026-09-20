@@ -1,0 +1,35 @@
+src/screen_flow_extraction/extract_mp3_clips.py
+Document model checksum: ymogyb+Vx3ZTJSyu7D4usOEYRkL03p5S5Ir4tZyWavc=
+Using model file: Scarlett10.mom
+Document tick timescale: 3000 ticks/second
+
+Found 26 audio (.mp3) clip(s) on the timeline:
+
+     Start |  Duration | Clip type        | File
+----------------------------------------------------------------------------------------------------
+  00:00.00 |    15.60s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section1_{0CF93E02-D457-4D68-A97E-ED545AEE7833}.mp3
+  00:15.60 |     4.63s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section1a_{5EFAB93A-7BDC-471F-982B-C4529D12C8EB}.mp3
+  00:20.23 |     7.83s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section2_{89256E05-3270-424E-B6BC-5BBA064AEDB8}.mp3
+  00:28.07 |    21.17s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section3_{CE57B0FC-3E85-402B-AF9C-7ADBEB3ACFCF}.mp3
+  00:49.23 |    11.37s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section4_{1E293405-B542-49D6-B778-4B7C78E81FAB}.mp3
+  01:01.80 |     8.87s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section5_{2F27FB2F-5CB8-4183-9BD7-BCC3D0122955}.mp3
+  01:10.67 |     7.60s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section6_V1_5_{5C8A368E-AF40-4922-A64E-9B0762A6BA3E}.mp3
+  01:18.97 |     5.67s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section7_{7F2E3D3C-7953-4564-9B39-AB7A99667187}.mp3
+  01:25.17 |    15.40s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section8_{74408B87-32BD-4EA6-A195-4886DC498261}.mp3
+  01:41.30 |     5.47s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section9_{F6FC1B1C-050A-43AC-B0A7-D84EB61365BA}.mp3
+  01:48.57 |    10.33s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section10_V2_0_{E7857654-822F-4909-8009-848E5031DFAF}.mp3
+  02:09.47 |     2.70s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section11-V1_5_{965EC763-A575-411C-9F0B-242F5BA29E10}.mp3
+  02:13.73 |     7.30s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session11a_V2_0_{888E36D6-BF2A-4883-95FD-335614B52BA5}.mp3
+  02:21.33 |     5.97s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session11b_V2_0_{441B5DDD-8F47-431A-9FFC-839DE4903E1A}.mp3
+  02:29.87 |    12.37s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section11c_V2_0_{96F11F77-677A-41E3-9AA0-9FF6B83D6AF9}.mp3
+  02:50.53 |    12.37s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section11d_V2_0_{A2C9523B-3413-4F58-9A7C-5470412C9F8B}.mp3
+  03:14.93 |    11.30s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section12_{C9975C2D-CBCC-487B-BE74-E17F2AD7FAE4}.mp3
+  03:30.90 |     4.77s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section13_{F866C9CA-B81E-4538-881C-2AF6A666526F}.mp3
+  03:36.63 |    10.33s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section14_{BEC2E914-DE01-4CC6-AD41-3BA5D6D5C0E2}.mp3
+  03:56.10 |    10.10s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section15_{1A58BD7B-7B4C-4812-AAAE-8CEC7980D126}.mp3
+  04:06.20 |     5.00s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section15a_{B099B2D3-B655-4ACA-B5E6-AF14BBE43688}.mp3
+  04:14.50 |     4.83s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section17_{4862F3BB-2FF3-4CB8-9E60-90A250196D62}.mp3
+  04:21.10 |     5.80s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session15a_V2_0_{7C891DEC-F17C-40B2-A07B-5C290AE37EC4}.mp3
+  04:30.33 |    29.20s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session15b_V2_0_{6E408814-C45F-42F7-903E-1BC7D6FE6CAB}.mp3
+  05:01.33 |    16.13s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section16_{C18903E2-BA87-4ECF-91F5-AD5ACD2F823C}.mp3
+  05:18.00 |     8.07s | MediaClip        | /Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section18_{D4B2B150-B9F3-4FF0-822E-62366809CB66}.mp3

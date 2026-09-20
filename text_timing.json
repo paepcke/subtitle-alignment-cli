@@ -1,0 +1,184 @@
+[
+  {
+    "index": 0,
+    "label": "section1",
+    "start": 0.0,
+    "end": 15.6,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section1_{0CF93E02-D457-4D68-A97E-ED545AEE7833}.mp3"
+  },
+  {
+    "index": 1,
+    "label": "section1a",
+    "start": 15.6,
+    "end": 20.23,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section1a_{5EFAB93A-7BDC-471F-982B-C4529D12C8EB}.mp3"
+  },
+  {
+    "index": 2,
+    "label": "section2",
+    "start": 20.23,
+    "end": 28.060000000000002,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section2_{89256E05-3270-424E-B6BC-5BBA064AEDB8}.mp3"
+  },
+  {
+    "index": 3,
+    "label": "section3",
+    "start": 28.07,
+    "end": 49.24,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section3_{CE57B0FC-3E85-402B-AF9C-7ADBEB3ACFCF}.mp3"
+  },
+  {
+    "index": 4,
+    "label": "section4",
+    "start": 49.23,
+    "end": 60.599999999999994,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section4_{1E293405-B542-49D6-B778-4B7C78E81FAB}.mp3"
+  },
+  {
+    "index": 5,
+    "label": "section5",
+    "start": 61.8,
+    "end": 70.67,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section5_{2F27FB2F-5CB8-4183-9BD7-BCC3D0122955}.mp3"
+  },
+  {
+    "index": 6,
+    "label": "section6-V1_5",
+    "start": 70.67,
+    "end": 78.27,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section6_V1_5_{5C8A368E-AF40-4922-A64E-9B0762A6BA3E}.mp3"
+  },
+  {
+    "index": 7,
+    "label": "section7",
+    "start": 78.97,
+    "end": 84.64,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section7_{7F2E3D3C-7953-4564-9B39-AB7A99667187}.mp3"
+  },
+  {
+    "index": 8,
+    "label": "section8",
+    "start": 85.17,
+    "end": 100.57000000000001,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section8_{74408B87-32BD-4EA6-A195-4886DC498261}.mp3"
+  },
+  {
+    "index": 9,
+    "label": "section9",
+    "start": 101.3,
+    "end": 106.77,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section9_{F6FC1B1C-050A-43AC-B0A7-D84EB61365BA}.mp3"
+  },
+  {
+    "index": 10,
+    "label": "section10-V2_0",
+    "start": 108.57,
+    "end": 118.89999999999999,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section10_V2_0_{E7857654-822F-4909-8009-848E5031DFAF}.mp3"
+  },
+  {
+    "index": 11,
+    "label": "section11-V1_5",
+    "start": 129.47,
+    "end": 132.17,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section11-V1_5_{965EC763-A575-411C-9F0B-242F5BA29E10}.mp3"
+  },
+  {
+    "index": 12,
+    "label": "section11a-V2_0.mp3",
+    "start": 133.73,
+    "end": 141.03,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session11a_V2_0_{888E36D6-BF2A-4883-95FD-335614B52BA5}.mp3"
+  },
+  {
+    "index": 13,
+    "label": "section11b-V2_0.mp3",
+    "start": 141.32999999999998,
+    "end": 147.29999999999998,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session11b_V2_0_{441B5DDD-8F47-431A-9FFC-839DE4903E1A}.mp3"
+  },
+  {
+    "index": 14,
+    "label": "section11c-V2_0.mp",
+    "start": 149.87,
+    "end": 162.24,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section11c_V2_0_{96F11F77-677A-41E3-9AA0-9FF6B83D6AF9}.mp3"
+  },
+  {
+    "index": 15,
+    "label": "section11d-V2_0.mp3",
+    "start": 170.53,
+    "end": 182.9,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section11d_V2_0_{A2C9523B-3413-4F58-9A7C-5470412C9F8B}.mp3"
+  },
+  {
+    "index": 16,
+    "label": "section12",
+    "start": 194.93,
+    "end": 206.23000000000002,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section12_{C9975C2D-CBCC-487B-BE74-E17F2AD7FAE4}.mp3"
+  },
+  {
+    "index": 17,
+    "label": "section13",
+    "start": 210.9,
+    "end": 215.67000000000002,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section13_{F866C9CA-B81E-4538-881C-2AF6A666526F}.mp3"
+  },
+  {
+    "index": 18,
+    "label": "section14",
+    "start": 216.63,
+    "end": 226.96,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section14_{BEC2E914-DE01-4CC6-AD41-3BA5D6D5C0E2}.mp3"
+  },
+  {
+    "index": 19,
+    "label": "section15",
+    "start": 236.1,
+    "end": 246.2,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section15_{1A58BD7B-7B4C-4812-AAAE-8CEC7980D126}.mp3"
+  },
+  {
+    "index": 20,
+    "label": "section15a",
+    "start": 246.2,
+    "end": 251.2,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section15a_{B099B2D3-B655-4ACA-B5E6-AF14BBE43688}.mp3"
+  },
+  {
+    "index": 21,
+    "label": "section17",
+    "start": 254.5,
+    "end": 259.33,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section17_{4862F3BB-2FF3-4CB8-9E60-90A250196D62}.mp3"
+  },
+  {
+    "index": 22,
+    "label": "section15a-V2_0.mp3",
+    "start": 261.1,
+    "end": 266.90000000000003,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session15a_V2_0_{7C891DEC-F17C-40B2-A07B-5C290AE37EC4}.mp3"
+  },
+  {
+    "index": 23,
+    "label": "section15b-V2_0.mp3",
+    "start": 270.33,
+    "end": 299.53,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/session15b_V2_0_{6E408814-C45F-42F7-903E-1BC7D6FE6CAB}.mp3"
+  },
+  {
+    "index": 24,
+    "label": "section16",
+    "start": 301.33,
+    "end": 317.46,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section16_{C18903E2-BA87-4ECF-91F5-AD5ACD2F823C}.mp3"
+  },
+  {
+    "index": 25,
+    "label": "section18",
+    "start": 318.0,
+    "end": 326.07,
+    "mp3_path": "/Users/paepcke/Project/TherapistTrainer/VideoIntro/ThTrainerV2_0/therapistV2_0_0.screenflow/Media/section18_{D4B2B150-B9F3-4FF0-822E-62366809CB66}.mp3"
+  }
+]
